@@ -1,0 +1,10 @@
+
+[
+  {
+    "Description": "My Server OVA",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "ubuntu-ova-for-ami",
+        "S3Key": "Ubuntu_1604_Native.ova"
+    }
+}]
